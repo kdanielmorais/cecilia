@@ -2,6 +2,6 @@
 
 #### Ela está on
 
-[Assistir a Cecícia](https://perfect-newt-22.loca.lt)
+[Assistir a Cecícia](https://giant-goose-57.loca.lt)
 
 
