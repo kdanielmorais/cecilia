@@ -5,7 +5,7 @@
 #### Espere o vídeo carregar, ou clique no link acima
 <iframe
   src="https://giant-goose-57.loca.lt" scrolling="no"
-  style="width:100%; height:350px; overflow: hidden;"
+  style="width:100%; height:320px; overflow: hidden;"
 ></iframe>
 
 
