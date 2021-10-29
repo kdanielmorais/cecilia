@@ -1,7 +1,9 @@
 ### Ela está on
 
 {% raw %}
+~~~html
 [Assistir a Cecícia]({{  site.conection_to.baby_cam }})
+~~~
 {% endraw %}
 #### Clique na foto de hoje e assista a Cecília dormindo em tempo real!
 
