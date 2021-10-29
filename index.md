@@ -6,5 +6,4 @@
 [![]({{site.baseurl}}/pics/deep_sleep.jpg)]({{ site.connection_to.baby_cam }})
 
 
-<iframe src="https://www.instagram.com/p/CVafXmVltxK/" title="W3Schools Free Online Web Tutorials"></iframe>
 
