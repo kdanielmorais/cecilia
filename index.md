@@ -8,6 +8,7 @@
   background-color: lightblue;
   text-align: center;
 }
+</style>
 
 #### Espere o vídeo carregar, ou clique no link acima
 <div class="myDiv">
