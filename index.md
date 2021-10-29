@@ -1,6 +1,6 @@
 ### Ela está on
 
-[Assistir a Cecícia](https://good-swan-95.loca.lt)
+[Assistir a Cecícia](https://polite-impala-10.loca.lt)
 
 <script>
   function myFunction() {
@@ -10,7 +10,7 @@
 
 #### Espere o vídeo carregar, ou clique no link acima
 <iframe
-  src="https://good-swan-95.loca.lt" scrolling="no" onload="myFunction()"
+  src="https://polite-impala-10.loca.lt" scrolling="no" onload="myFunction()"
   style="width:100%; height:290px; overflow: hidden;"
 ></iframe>
 
