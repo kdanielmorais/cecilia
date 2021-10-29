@@ -8,7 +8,7 @@
 
 
 
-[Assistir a Cecícia]({% connection_to.baby_cam %})
+[Assistir a Cecícia]({% site.connection_to.baby_cam %})
 
 #### Clique na foto de hoje e assista a Cecília dormindo em tempo real!
 
