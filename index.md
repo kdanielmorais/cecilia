@@ -1,10 +1,15 @@
 ### Ela está on
 
-{% raw %}
+
+<div class="aside">
+<h2>My heading</h2>
+<p>Some text, some text, some more text.</p>
+</div>
+
+
 
 [Assistir a Cecícia]({% site.conection_to.baby_cam %})
 
-{% endraw %}
 #### Clique na foto de hoje e assista a Cecília dormindo em tempo real!
 
 
@@ -15,4 +20,5 @@
 ##### Test 2
 [<img src="{{site.baseurl}}/pics/deep_sleep.jpg">]({{ site.conection_to.baby_cam }})
 
-
+##### Test 3
+<img src="{{site.baseurl}}/pics/deep_sleep.jpg" alt="Dormindinha" width="500" height="350">
